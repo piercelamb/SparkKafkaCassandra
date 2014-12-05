@@ -4,7 +4,7 @@
 		module="sparkkafkacassandra_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20141202203820"
+		publication="20141204153531"
 	>
 		<description>
 		SparkKafkaCassandra
@@ -36,5 +36,7 @@
 		<dependency org="org.apache.spark" name="spark-streaming_2.10" rev="1.1.1" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-streaming-kafka_2.10" rev="1.1.1" conf="compile->default(compile)"/>
 		<dependency org="com.datastax.spark" name="spark-cassandra-connector_2.10" rev="1.1.0" conf="compile->default(compile)"/>
+		<dependency org="com.datastax.spark" name="spark-cassandra-connector-demos_2.10" rev="1.1.0-beta1" conf="compile->default(compile)"/>
+		<dependency org="com.datastax.spark" name="spark-cassandra-connector-embedded_2.10" rev="1.1.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

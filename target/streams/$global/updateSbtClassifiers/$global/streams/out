@@ -611,9 +611,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.5!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.5!apply-macro.jar
-[debug] :: resolution report :: resolve 1600ms :: artifacts dl 39ms
+[debug] :: resolution report :: resolve 2673ms :: artifacts dl 129ms
 [debug] 	report for sparkkafkacassandra#sparkkafkacassandra$sbt_2.10;1.0 default produced in /home/plamb/IdeaProjects/SparkKafkaCassandra/target/resolution-cache/reports/sparkkafkacassandra-sparkkafkacassandra$sbt_2.10-default.xml
-[debug] 	resolve done (1600ms resolve - 39ms download)
+[debug] 	resolve done (2673ms resolve - 129ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: sparkkafkacassandra#sparkkafkacassandra$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -955,6 +955,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.5!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.5!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.5!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 462ms :: artifacts dl 51ms
+[debug] :: resolution report :: resolve 811ms :: artifacts dl 156ms
 [debug] 	report for sparkkafkacassandra#sparkkafkacassandra$sources_2.10;1.0 default produced in /home/plamb/IdeaProjects/SparkKafkaCassandra/target/resolution-cache/reports/sparkkafkacassandra-sparkkafkacassandra$sources_2.10-default.xml
-[debug] 	resolve done (462ms resolve - 51ms download)
+[debug] 	resolve done (811ms resolve - 156ms download)
